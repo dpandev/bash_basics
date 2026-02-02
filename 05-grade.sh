@@ -19,6 +19,7 @@ fi
 # that prints "it's cold" if the temperature is < 40
 # it's chilly if < 60, it's okay if < 70 and, it's hot for 
 # everything else
+
 echo "What is the current temperature?"
 read temp
 
